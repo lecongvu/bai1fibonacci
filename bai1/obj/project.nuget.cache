@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPHh2561VnHw/tJr6UmYViaenZNztCVqlWa+Mp31y2kVDQMigDfk02PKwxMCBj4dBq+MyGjgw57n8tX1iFm0gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Le Cong Vu\\source\\repos\\bai1\\bai1\\bai1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Le Cong Vu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Le Cong Vu\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
